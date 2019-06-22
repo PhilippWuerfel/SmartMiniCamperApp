@@ -1,0 +1,72 @@
+[
+  {
+    "currentBat": 11.8,
+    "currentIn": 23.11,
+    "currentOut": 22.2,
+    "date": "2019-06-03 10:22:09",
+    "id": 1
+  },
+  {
+    "currentBat": 12,
+    "currentIn": 21,
+    "currentOut": 22,
+    "date": "2019-06-03 12:44:47",
+    "id": 2
+  },
+  {
+    "currentBat": 12,
+    "currentIn": 48,
+    "currentOut": 22.4,
+    "date": "2019-06-03 14:54:37",
+    "id": 3
+  },
+  {
+    "currentBat": 12,
+    "currentIn": 28,
+    "currentOut": 22.1,
+    "date": "2019-06-03 14:55:01",
+    "id": 4
+  },
+  {
+    "currentBat": 12,
+    "currentIn": 28.12,
+    "currentOut": 25.1,
+    "date": "2019-06-03 14:55:17",
+    "id": 5
+  },
+  {
+    "currentBat": 12,
+    "currentIn": 32,
+    "currentOut": 28,
+    "date": "2019-06-03 14:55:30",
+    "id": 6
+  },
+  {
+    "currentBat": 12,
+    "currentIn": 35,
+    "currentOut": 33,
+    "date": "2019-06-03 14:55:38",
+    "id": 7
+  },
+  {
+    "currentBat": 12,
+    "currentIn": 38,
+    "currentOut": 44,
+    "date": "2019-06-03 14:55:46",
+    "id": 8
+  },
+  {
+    "currentBat": 12,
+    "currentIn": 43,
+    "currentOut": 49,
+    "date": "2019-06-03 14:56:10",
+    "id": 9
+  },
+  {
+    "currentBat": 12,
+    "currentIn": 48,
+    "currentOut": 52,
+    "date": "2019-06-03 14:56:19",
+    "id": 10
+  }
+]

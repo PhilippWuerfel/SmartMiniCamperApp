@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SmartMiniCamper</string>
+
+    <string-array name="dropDownTimespanes">
+        <item>Today</item>
+        <item>Last 3 Days</item>
+        <item>Last Week</item>
+    </string-array>
+
+    <string-array name="dropDownDiagramOptions">
+        <item>Battery</item>
+        <item>Incoming Current</item>
+        <item>Outgoing Current</item>
+    </string-array>
+</resources>
